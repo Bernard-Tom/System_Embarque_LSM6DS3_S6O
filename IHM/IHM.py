@@ -1,3 +1,7 @@
+# INTERFACE HOMME MACHINE / BERNARD TOM
+
+# Lecture du port série et écriture dans un fichier CSV
+
 import sys
 import csv
 import serial
